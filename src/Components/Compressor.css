@@ -1,0 +1,38 @@
+#center{
+   text-align: center;
+   align-items: center;
+   background: url(../Components/Main-Pic.png);
+   background-repeat: no-repeat;
+   height: 100%;
+   width: 100%;
+   overflow-x: hidden;}
+#btn-cen{
+align-items: center;
+
+}
+#nav-bar{
+color: white;
+/* background-image: url(KB-Compressor.png); */
+background-repeat: no-repeat;
+}
+/* #ndsec{
+background-color: black;
+height: 800px;
+width: 800px;
+} */
+ #head-dark{
+background-color: black;
+
+ }
+#cards-w{
+width: 18rem;
+
+
+}
+#feature{
+padding-top: 100px;
+
+}
+#img-side{
+   background: url(../Components/side-image.png);
+}
